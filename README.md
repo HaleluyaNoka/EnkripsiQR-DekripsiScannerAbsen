@@ -1,0 +1,1 @@
+# EnkripsiQR-DekripsiScannerAbsen
