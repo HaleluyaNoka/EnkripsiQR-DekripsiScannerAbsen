@@ -1,1 +1,4 @@
 # EnkripsiQR-DekripsiScannerAbsen
+
+Link Google Sheet Laporan Absen :
+https://docs.google.com/spreadsheets/d/1tyi8zPjVORgjwcZ8o_7swsIiIVyELvpb0Wf4dU74uSo/edit?usp=sharing
